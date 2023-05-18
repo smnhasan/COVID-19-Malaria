@@ -1,0 +1,1821 @@
+Case_ParentLocation,Case_SpatialDimValueCode,Location,Period,Case_Value
+Africa,DZA,Algeria,2017,0
+Africa,DZA,Algeria,2016,0
+Africa,DZA,Algeria,2015,0
+Africa,DZA,Algeria,2014,0
+Africa,DZA,Algeria,2009,0
+Americas,ARG,Argentina,2017,0
+Americas,ARG,Argentina,2016,0
+Americas,ARG,Argentina,2015,0
+Americas,ARG,Argentina,2014,0
+Americas,ARG,Argentina,2013,0
+Americas,ARG,Argentina,2012,0
+Americas,ARG,Argentina,2011,0
+Europe,ARM,Armenia,2017,0
+Europe,ARM,Armenia,2016,0
+Europe,ARM,Armenia,2015,0
+Europe,ARM,Armenia,2014,0
+Europe,ARM,Armenia,2013,0
+Europe,ARM,Armenia,2012,0
+Europe,ARM,Armenia,2011,0
+Europe,ARM,Armenia,2010,0
+Europe,ARM,Armenia,2009,0
+Europe,ARM,Armenia,2008,0
+Europe,ARM,Armenia,2007,0
+Europe,ARM,Armenia,2006,0
+Europe,AZE,Azerbaijan,2017,0
+Europe,AZE,Azerbaijan,2016,0
+Europe,AZE,Azerbaijan,2015,0
+Europe,AZE,Azerbaijan,2014,0
+Europe,AZE,Azerbaijan,2013,0
+Western Pacific,CHN,China,2017,0
+Americas,CRI,Costa Rica,2015,0
+Americas,CRI,Costa Rica,2014,0
+Americas,CRI,Costa Rica,2013,0
+Eastern Mediterranean,EGY,Egypt,2016,0
+Eastern Mediterranean,EGY,Egypt,2015,0
+Eastern Mediterranean,EGY,Egypt,2013,0
+Eastern Mediterranean,EGY,Egypt,2012,0
+Eastern Mediterranean,EGY,Egypt,2011,0
+Eastern Mediterranean,EGY,Egypt,2010,0
+Eastern Mediterranean,EGY,Egypt,2009,0
+Eastern Mediterranean,EGY,Egypt,2008,0
+Eastern Mediterranean,EGY,Egypt,2007,0
+Eastern Mediterranean,EGY,Egypt,2006,0
+Eastern Mediterranean,EGY,Egypt,2005,0
+Eastern Mediterranean,EGY,Egypt,2004,0
+Eastern Mediterranean,EGY,Egypt,2003,0
+Eastern Mediterranean,EGY,Egypt,2002,0
+Eastern Mediterranean,EGY,Egypt,2001,0
+Eastern Mediterranean,EGY,Egypt,2000,0
+Europe,GEO,Georgia,2017,0
+Europe,GEO,Georgia,2016,0
+Europe,GEO,Georgia,2015,0
+Europe,GEO,Georgia,2014,0
+Europe,GEO,Georgia,2013,0
+Europe,GEO,Georgia,2012,0
+Europe,GEO,Georgia,2011,0
+Europe,GEO,Georgia,2010,0
+Eastern Mediterranean,IRQ,Iraq,2017,0
+Eastern Mediterranean,IRQ,Iraq,2016,0
+Eastern Mediterranean,IRQ,Iraq,2015,0
+Eastern Mediterranean,IRQ,Iraq,2014,0
+Eastern Mediterranean,IRQ,Iraq,2013,0
+Eastern Mediterranean,IRQ,Iraq,2012,0
+Eastern Mediterranean,IRQ,Iraq,2011,0
+Eastern Mediterranean,IRQ,Iraq,2010,0
+Eastern Mediterranean,IRQ,Iraq,2009,0
+Europe,KAZ,Kazakhstan,2017,0
+Europe,KAZ,Kazakhstan,2016,0
+Europe,KAZ,Kazakhstan,2015,0
+Europe,KGZ,Kyrgyzstan,2016,0
+Europe,KGZ,Kyrgyzstan,2015,0
+Europe,KGZ,Kyrgyzstan,2014,0
+Europe,KGZ,Kyrgyzstan,2013,0
+Europe,KGZ,Kyrgyzstan,2012,0
+Europe,KGZ,Kyrgyzstan,2011,0
+Africa,MUS,Mauritius,2017,0
+Eastern Mediterranean,MAR,Morocco,2017,0
+Eastern Mediterranean,MAR,Morocco,2016,0
+Eastern Mediterranean,MAR,Morocco,2015,0
+Eastern Mediterranean,MAR,Morocco,2014,0
+Eastern Mediterranean,MAR,Morocco,2013,0
+Eastern Mediterranean,MAR,Morocco,2012,0
+Eastern Mediterranean,MAR,Morocco,2011,0
+Eastern Mediterranean,MAR,Morocco,2009,0
+Eastern Mediterranean,MAR,Morocco,2008,0
+Eastern Mediterranean,MAR,Morocco,2007,0
+Eastern Mediterranean,MAR,Morocco,2006,0
+Eastern Mediterranean,MAR,Morocco,2005,0
+Eastern Mediterranean,MAR,Morocco,2001,0
+Eastern Mediterranean,OMN,Oman,2017,0
+Eastern Mediterranean,OMN,Oman,2016,0
+Eastern Mediterranean,OMN,Oman,2015,0
+Eastern Mediterranean,OMN,Oman,2014,0
+Eastern Mediterranean,OMN,Oman,2013,0
+Eastern Mediterranean,OMN,Oman,2012,0
+Eastern Mediterranean,OMN,Oman,2011,0
+Eastern Mediterranean,OMN,Oman,2009,0
+Eastern Mediterranean,OMN,Oman,2006,0
+Eastern Mediterranean,OMN,Oman,2005,0
+Eastern Mediterranean,OMN,Oman,2004,0
+Americas,PRY,Paraguay,2017,0
+Americas,PRY,Paraguay,2016,0
+Americas,PRY,Paraguay,2015,0
+Americas,PRY,Paraguay,2014,0
+Americas,PRY,Paraguay,2013,0
+Americas,PRY,Paraguay,2012,0
+Africa,SSD,South Sudan,2016,0
+Africa,SSD,South Sudan,2015,0
+South-East Asia,LKA,Sri Lanka,2017,0
+South-East Asia,LKA,Sri Lanka,2016,0
+South-East Asia,LKA,Sri Lanka,2015,0
+South-East Asia,LKA,Sri Lanka,2014,0
+South-East Asia,LKA,Sri Lanka,2013,0
+Eastern Mediterranean,SYR,Syria,2017,0
+Eastern Mediterranean,SYR,Syria,2016,0
+Eastern Mediterranean,SYR,Syria,2015,0
+Eastern Mediterranean,SYR,Syria,2014,0
+Eastern Mediterranean,SYR,Syria,2013,0
+Eastern Mediterranean,SYR,Syria,2012,0
+Eastern Mediterranean,SYR,Syria,2011,0
+Eastern Mediterranean,SYR,Syria,2010,0
+Eastern Mediterranean,SYR,Syria,2009,0
+Eastern Mediterranean,SYR,Syria,2008,0
+Eastern Mediterranean,SYR,Syria,2007,0
+Eastern Mediterranean,SYR,Syria,2006,0
+Eastern Mediterranean,SYR,Syria,2005,0
+Europe,TJK,Tajikistan,2017,0
+Europe,TJK,Tajikistan,2016,0
+Europe,TJK,Tajikistan,2015,0
+Europe,TUR,Turkey,2016,0
+Europe,TUR,Turkey,2015,0
+Europe,TUR,Turkey,2014,0
+Europe,TUR,Turkey,2013,0
+Europe,TUR,Turkey,2012,0
+Europe,TUR,Turkey,2011,0
+Europe,TUR,Turkey,2010,0
+Europe,TUR,Turkey,2017,0
+Europe,TKM,Turkmenistan,2017,0
+Europe,TKM,Turkmenistan,2016,0
+Europe,TKM,Turkmenistan,2015,0
+Europe,TKM,Turkmenistan,2014,0
+Europe,TKM,Turkmenistan,2010,0
+Europe,TKM,Turkmenistan,2009,0
+Europe,TKM,Turkmenistan,2008,0
+Europe,TKM,Turkmenistan,2007,0
+Eastern Mediterranean,ARE,United Arab Emirates,2016,0
+Eastern Mediterranean,ARE,United Arab Emirates,2015,0
+Eastern Mediterranean,ARE,United Arab Emirates,2014,0
+Eastern Mediterranean,ARE,United Arab Emirates,2013,0
+Europe,UZB,Uzbekistan,2017,0
+Europe,UZB,Uzbekistan,2016,0
+Europe,UZB,Uzbekistan,2015,0
+Europe,UZB,Uzbekistan,2014,0
+Europe,UZB,Uzbekistan,2013,0
+Europe,UZB,Uzbekistan,2012,0
+Europe,UZB,Uzbekistan,2011,0
+Europe,UZB,Uzbekistan,2009,0
+Africa,DZA,Algeria,2011,1
+Africa,DZA,Algeria,2010,1
+Africa,CPV,Cape Verde,2012,1
+Europe,GEO,Georgia,2009,1
+Eastern Mediterranean,MAR,Morocco,2004,1
+Americas,PRY,Paraguay,2011,1
+Eastern Mediterranean,SYR,Syria,2004,1
+Europe,TKM,Turkmenistan,2006,1
+Europe,TKM,Turkmenistan,2005,1
+Americas,SLV,El Salvador,2015,2
+Eastern Mediterranean,IRQ,Iraq,2008,2
+Eastern Mediterranean,OMN,Oman,2001,2
+Eastern Mediterranean,SYR,Syria,2003,2
+Europe,TJK,Tajikistan,2014,2
+Africa,DZA,Algeria,2008,3
+Europe,AZE,Azerbaijan,2012,3
+Western Pacific,CHN,China,2016,3
+Eastern Mediterranean,IRQ,Iraq,2007,3
+Europe,KGZ,Kyrgyzstan,2010,3
+Eastern Mediterranean,MAR,Morocco,2010,3
+Eastern Mediterranean,MAR,Morocco,2000,3
+Europe,TJK,Tajikistan,2013,3
+Europe,TKM,Turkmenistan,2004,3
+Europe,UZB,Uzbekistan,2010,3
+Europe,AZE,Azerbaijan,2011,4
+Americas,BLZ,Belize,2016,4
+Americas,CRI,Costa Rica,2016,4
+Europe,KGZ,Kyrgyzstan,2009,4
+Eastern Mediterranean,MAR,Morocco,2003,4
+Eastern Mediterranean,OMN,Oman,2007,4
+Americas,CRI,Costa Rica,2012,6
+Americas,SLV,El Salvador,2014,6
+Americas,SLV,El Salvador,2013,6
+Europe,GEO,Georgia,2008,6
+Eastern Mediterranean,OMN,Oman,2003,6
+Eastern Mediterranean,OMN,Oman,2002,6
+Eastern Mediterranean,OMN,Oman,2000,6
+Eastern Mediterranean,SYR,Syria,2000,6
+Europe,ARM,Armenia,2005,7
+Americas,BLZ,Belize,2017,7
+Africa,CPV,Cape Verde,2015,7
+Africa,CPV,Cape Verde,2011,7
+Eastern Mediterranean,OMN,Oman,2010,7
+Europe,TKM,Turkmenistan,2003,7
+Europe,UZB,Uzbekistan,2008,7
+Africa,DZA,Algeria,2013,8
+Eastern Mediterranean,OMN,Oman,2008,8
+Europe,TKM,Turkmenistan,2001,8
+Americas,BLZ,Belize,2015,9
+Americas,SLV,El Salvador,2011,9
+Americas,CRI,Costa Rica,2011,10
+Americas,CRI,Costa Rica,2017,12
+Americas,SLV,El Salvador,2016,12
+Europe,KGZ,Kyrgyzstan,2000,12
+Americas,SLV,El Salvador,2012,13
+Americas,ARG,Argentina,2010,14
+South-East Asia,BTN,Bhutan,2016,15
+South-East Asia,BTN,Bhutan,2013,15
+Eastern Mediterranean,SYR,Syria,2002,15
+South-East Asia,TLS,Timor,2017,16
+Africa,CPV,Cape Verde,2007,18
+Europe,KGZ,Kyrgyzstan,2008,18
+Americas,PRY,Paraguay,2010,18
+Europe,TJK,Tajikistan,2012,18
+Europe,TKM,Turkmenistan,2002,18
+Americas,BLZ,Belize,2014,19
+South-East Asia,BTN,Bhutan,2014,19
+Americas,SLV,El Salvador,2010,19
+Eastern Mediterranean,MAR,Morocco,2002,19
+Americas,BLZ,Belize,2013,20
+Americas,SLV,El Salvador,2009,20
+Africa,CPV,Cape Verde,2013,22
+Eastern Mediterranean,EGY,Egypt,2014,22
+South-East Asia,LKA,Sri Lanka,2012,23
+South-East Asia,BTN,Bhutan,2017,24
+Europe,GEO,Georgia,2007,24
+Eastern Mediterranean,IRQ,Iraq,2006,24
+Europe,TKM,Turkmenistan,2000,24
+Eastern Mediterranean,DJI,Djibouti,2012,25
+Africa,CPV,Cape Verde,2014,26
+Europe,KGZ,Kyrgyzstan,2001,28
+Europe,ARM,Armenia,2003,29
+Eastern Mediterranean,SAU,Saudi Arabia,2010,29
+Eastern Mediterranean,SAU,Saudi Arabia,2014,30
+Europe,UZB,Uzbekistan,2007,30
+Americas,BLZ,Belize,2012,33
+Americas,SLV,El Salvador,2008,33
+South-East Asia,BTN,Bhutan,2015,34
+Eastern Mediterranean,SAU,Saudi Arabia,2013,34
+Africa,CPV,Cape Verde,2008,35
+Europe,TUR,Turkey,2009,38
+Western Pacific,CHN,China,2015,39
+Americas,SLV,El Salvador,2007,40
+Americas,SUR,Suriname,2017,40
+Africa,CPV,Cape Verde,2004,45
+Europe,ARM,Armenia,2004,47
+Africa,CPV,Cape Verde,2010,47
+Eastern Mediterranean,IRQ,Iraq,2005,47
+Africa,CPV,Cape Verde,2016,48
+Americas,SLV,El Salvador,2006,49
+Europe,AZE,Azerbaijan,2010,50
+Europe,ARM,Armenia,2002,52
+Africa,DZA,Algeria,2012,55
+Western Pacific,CHN,China,2014,56
+Eastern Mediterranean,IRN,Iran,2017,57
+Africa,SWZ,Eswatini,2008,58
+Eastern Mediterranean,SAU,Saudi Arabia,2009,58
+Europe,GEO,Georgia,2006,59
+Eastern Mediterranean,SAU,Saudi Arabia,2008,61
+Eastern Mediterranean,SYR,Syria,2001,63
+Africa,CPV,Cape Verde,2009,65
+Europe,TJK,Tajikistan,2011,65
+Europe,UZB,Uzbekistan,2004,66
+Africa,COG,Congo,2005,67
+Africa,CIV,Cote d'Ivoire,2005,67
+Americas,SLV,El Salvador,2005,67
+Africa,CPV,Cape Verde,2005,68
+Africa,CPV,Cape Verde,2003,68
+Eastern Mediterranean,SAU,Saudi Arabia,2011,69
+Europe,AZE,Azerbaijan,2008,72
+Americas,BLZ,Belize,2011,72
+Europe,UZB,Uzbekistan,2006,73
+Europe,UZB,Uzbekistan,2003,74
+Europe,UZB,Uzbekistan,2002,74
+Africa,CPV,Cape Verde,2002,76
+Americas,SUR,Suriname,2016,76
+Europe,UZB,Uzbekistan,2001,77
+Europe,AZE,Azerbaijan,2009,78
+Europe,ARM,Armenia,2001,79
+Africa,CPV,Cape Verde,2006,80
+South-East Asia,TLS,Timor,2015,80
+Eastern Mediterranean,IRN,Iran,2016,81
+Americas,SUR,Suriname,2015,81
+Eastern Mediterranean,SAU,Saudi Arabia,2012,82
+Eastern Mediterranean,SAU,Saudi Arabia,2015,83
+Africa,SWZ,Eswatini,2007,84
+Americas,SLV,El Salvador,2003,85
+Western Pacific,MYS,Malaysia,2017,85
+Americas,ARG,Argentina,2009,86
+Western Pacific,CHN,China,2013,86
+Americas,PRY,Paraguay,2009,91
+Europe,KGZ,Kyrgyzstan,2004,93
+South-East Asia,TLS,Timor,2016,94
+Europe,KGZ,Kyrgyzstan,2007,96
+Europe,UZB,Uzbekistan,2005,102
+Africa,SWZ,Eswatini,2009,106
+Africa,CPV,Cape Verde,2001,107
+Europe,AZE,Azerbaijan,2007,108
+Americas,CRI,Costa Rica,2010,110
+Europe,TJK,Tajikistan,2010,111
+Americas,SLV,El Salvador,2004,112
+Americas,ARG,Argentina,2004,115
+Africa,DZA,Algeria,2006,117
+Americas,SLV,El Salvador,2002,117
+Eastern Mediterranean,DJI,Djibouti,2008,119
+Americas,ARG,Argentina,2003,122
+Eastern Mediterranean,DJI,Djibouti,2004,122
+South-East Asia,LKA,Sri Lanka,2011,124
+Americas,ARG,Argentina,2002,125
+Europe,UZB,Uzbekistan,2000,126
+Americas,ARG,Argentina,2008,130
+Europe,ARM,Armenia,2000,141
+Europe,AZE,Azerbaijan,2006,143
+Africa,CPV,Cape Verde,2000,144
+Americas,BLZ,Belize,2010,150
+Africa,SWZ,Eswatini,2006,155
+Europe,GEO,Georgia,2005,155
+Eastern Mediterranean,IRQ,Iraq,2004,155
+Africa,SWZ,Eswatini,2015,157
+Africa,DZA,Algeria,2004,163
+Europe,TJK,Tajikistan,2009,164
+Europe,TUR,Turkey,2008,166
+Eastern Mediterranean,IRN,Iran,2015,167
+Eastern Mediterranean,SAU,Saudi Arabia,2017,177
+Africa,BWA,Botswana,2012,193
+South-East Asia,BTN,Bhutan,2011,194
+Africa,NAM,Namibia,2012,194
+Africa,BWA,Botswana,2004,198
+South-East Asia,LKA,Sri Lanka,2007,198
+Eastern Mediterranean,DJI,Djibouti,2007,210
+Africa,TZA,United Republic of Tanzania,2009,211
+Americas,ARG,Argentina,2006,212
+Americas,ARG,Argentina,2001,215
+Europe,KGZ,Kyrgyzstan,2005,226
+Europe,AZE,Azerbaijan,2005,242
+Americas,ECU,Ecuador,2014,242
+Western Pacific,MYS,Malaysia,2015,242
+Western Pacific,CHN,China,2012,244
+Europe,GEO,Georgia,2000,245
+Americas,ARG,Argentina,2005,252
+Americas,BLZ,Belize,2009,256
+Europe,GEO,Georgia,2004,257
+Americas,CRI,Costa Rica,2009,262
+Western Pacific,MYS,Malaysia,2016,266
+Africa,SWZ,Eswatini,2010,268
+Eastern Mediterranean,SAU,Saudi Arabia,2016,272
+Africa,SWZ,Eswatini,2005,279
+Africa,DZA,Algeria,2007,288
+Africa,COG,Congo,2004,293
+Africa,CIV,Cote d'Ivoire,2004,293
+Africa,DZA,Algeria,2005,299
+Africa,MRT,Mauritania,2008,302
+Africa,DZA,Algeria,2002,307
+Europe,TUR,Turkey,2007,313
+Europe,GEO,Georgia,2003,316
+Europe,KGZ,Kyrgyzstan,2006,317
+Europe,TJK,Tajikistan,2008,318
+Africa,BWA,Botswana,2015,326
+South-East Asia,BTN,Bhutan,2008,329
+Americas,DOM,Dominican Republic,2017,341
+Africa,SWZ,Eswatini,2003,342
+South-East Asia,TLS,Timor,2014,342
+Eastern Mediterranean,IRQ,Iraq,2003,347
+Americas,PRY,Paraguay,2008,348
+Africa,SWZ,Eswatini,2016,350
+Americas,PAN,Panama,2011,354
+Americas,SUR,Suriname,2012,356
+Eastern Mediterranean,IRN,Iran,2014,358
+Americas,SLV,El Salvador,2001,362
+Americas,ECU,Ecuador,2013,368
+Americas,PRY,Paraguay,2005,376
+Western Pacific,KOR,South Korea,2013,383
+Europe,AZE,Azerbaijan,2004,386
+Americas,ARG,Argentina,2007,387
+Africa,BWA,Botswana,2007,390
+Western Pacific,KOR,South Korea,2012,394
+Americas,SUR,Suriname,2014,401
+Eastern Mediterranean,DJI,Djibouti,2005,413
+Americas,PAN,Panama,2010,418
+Africa,CPV,Cape Verde,2017,423
+Western Pacific,VUT,Vanuatu,2015,423
+Africa,DZA,Algeria,2003,427
+Africa,BWA,Botswana,2011,432
+Africa,DZA,Algeria,2001,435
+South-East Asia,BTN,Bhutan,2010,436
+Western Pacific,KOR,South Korea,2017,436
+Europe,GEO,Georgia,2001,438
+Americas,ARG,Argentina,2000,440
+Africa,BWA,Botswana,2013,456
+Americas,DOM,Dominican Republic,2014,459
+Eastern Mediterranean,SAU,Saudi Arabia,2007,467
+Europe,KGZ,Kyrgyzstan,2003,468
+Europe,GEO,Georgia,2002,474
+Eastern Mediterranean,IRN,Iran,2013,479
+Europe,AZE,Azerbaijan,2003,482
+Americas,MEX,Mexico,2013,495
+Africa,NAM,Namibia,2009,505
+Western Pacific,KOR,South Korea,2011,505
+Europe,AZE,Azerbaijan,2002,506
+South-East Asia,NPL,Nepal,2016,507
+Americas,MEX,Mexico,2015,517
+South-East Asia,LKA,Sri Lanka,2009,531
+Americas,BLZ,Belize,2008,540
+Africa,DZA,Algeria,2000,541
+Americas,ECU,Ecuador,2012,544
+Americas,PAN,Panama,2015,546
+Africa,SWZ,Eswatini,2011,549
+Americas,MEX,Mexico,2016,551
+Africa,ZAF,South Africa,2015,555
+Africa,NAM,Namibia,2010,556
+Western Pacific,KOR,South Korea,2014,557
+Africa,SWZ,Eswatini,2012,562
+Africa,SWZ,Eswatini,2004,574
+Americas,DOM,Dominican Republic,2013,579
+Africa,BWA,Botswana,2003,591
+South-East Asia,NPL,Nepal,2015,591
+South-East Asia,LKA,Sri Lanka,2006,591
+Western Pacific,KOR,South Korea,2016,602
+Americas,NIC,Nicaragua,2009,610
+Americas,ECU,Ecuador,2015,618
+South-East Asia,NPL,Nepal,2017,623
+Western Pacific,KOR,South Korea,2015,627
+Americas,DOM,Dominican Republic,2015,631
+Europe,TJK,Tajikistan,2007,635
+Americas,PAN,Panama,2017,649
+South-East Asia,LKA,Sri Lanka,2008,649
+Americas,MEX,Mexico,2014,656
+Africa,GAB,Gabon,2009,660
+Africa,BWA,Botswana,2005,670
+Africa,SWZ,Eswatini,2002,670
+South-East Asia,LKA,Sri Lanka,2010,684
+Americas,DOM,Dominican Republic,2016,690
+Americas,NIC,Nicaragua,2010,692
+Americas,PRY,Paraguay,2004,694
+Americas,PAN,Panama,2013,705
+Africa,SWZ,Eswatini,2014,711
+Africa,BWA,Botswana,2016,716
+Americas,CRI,Costa Rica,2003,718
+Africa,SWZ,Eswatini,2017,724
+Americas,SUR,Suriname,2013,729
+Americas,MEX,Mexico,2017,736
+Americas,PAN,Panama,2008,744
+Americas,SLV,El Salvador,2000,753
+Eastern Mediterranean,IRN,Iran,2012,756
+Americas,NIC,Nicaragua,2008,762
+Americas,PAN,Panama,2016,769
+Americas,SUR,Suriname,2011,771
+South-East Asia,PRK,Democratic People's Republic of Korea,2015,773
+Americas,PAN,Panama,2009,778
+South-East Asia,BTN,Bhutan,2007,793
+Europe,TUR,Turkey,2006,796
+Americas,PRY,Paraguay,2006,823
+South-East Asia,NPL,Nepal,2014,832
+Americas,MEX,Mexico,2012,833
+Americas,BLZ,Belize,2006,844
+Americas,PAN,Panama,2012,844
+Americas,BLZ,Belize,2007,845
+Americas,PAN,Panama,2014,864
+Western Pacific,KOR,South Korea,2004,864
+Africa,COD,Democratic Republic of Congo,2000,897
+Western Pacific,KOR,South Korea,2009,898
+Americas,NIC,Nicaragua,2011,925
+Africa,BWA,Botswana,2008,927
+Americas,PAN,Panama,2001,928
+Africa,MRT,Mauritania,2009,940
+Americas,DOM,Dominican Republic,2012,952
+Eastern Mediterranean,IRQ,Iraq,2002,952
+Africa,SWZ,Eswatini,2013,962
+Americas,CRI,Costa Rica,2008,966
+South-East Asia,BTN,Bhutan,2009,972
+Western Pacific,VUT,Vanuatu,2014,982
+Eastern Mediterranean,DJI,Djibouti,2010,1010
+Americas,CRI,Costa Rica,2002,1021
+Africa,BWA,Botswana,2009,1024
+South-East Asia,TLS,Timor,2013,1025
+Americas,PAN,Panama,2000,1036
+Americas,DOM,Dominican Republic,2001,1038
+Africa,BWA,Botswana,2010,1046
+Western Pacific,KOR,South Korea,2008,1052
+Europe,AZE,Azerbaijan,2001,1058
+Eastern Mediterranean,SAU,Saudi Arabia,2005,1059
+Africa,MRT,Mauritania,2006,1061
+Americas,BLZ,Belize,2004,1066
+Africa,COM,Comoros,2016,1066
+Western Pacific,VUT,Vanuatu,2017,1071
+Americas,BLZ,Belize,2003,1084
+Africa,NAM,Namibia,2008,1092
+Americas,MEX,Mexico,2011,1124
+Americas,BLZ,Belize,2002,1134
+Americas,NIC,Nicaragua,2014,1142
+Americas,BLZ,Belize,2001,1162
+Americas,NIC,Nicaragua,2013,1162
+Western Pacific,KOR,South Korea,2003,1171
+Americas,ECU,Ecuador,2016,1191
+Americas,ECU,Ecuador,2011,1219
+Americas,CRI,Costa Rica,2007,1223
+Americas,MEX,Mexico,2010,1226
+Eastern Mediterranean,SAU,Saudi Arabia,2004,1232
+Americas,DOM,Dominican Republic,2000,1233
+Americas,NIC,Nicaragua,2012,1235
+Eastern Mediterranean,IRQ,Iraq,2001,1265
+Western Pacific,KOR,South Korea,2010,1267
+Americas,ECU,Ecuador,2017,1275
+Americas,HND,Honduras,2017,1277
+Eastern Mediterranean,SAU,Saudi Arabia,2006,1278
+Americas,PAN,Panama,2007,1281
+Americas,CRI,Costa Rica,2004,1289
+Americas,DOM,Dominican Republic,2002,1296
+Africa,COM,Comoros,2015,1300
+Americas,PRY,Paraguay,2007,1341
+Europe,TJK,Tajikistan,2006,1344
+Africa,BWA,Botswana,2014,1346
+Americas,NIC,Nicaragua,2007,1356
+Africa,TCD,Chad,2004,1360
+Americas,CRI,Costa Rica,2001,1363
+Western Pacific,KOR,South Korea,2005,1369
+Americas,PRY,Paraguay,2003,1392
+Africa,SWZ,Eswatini,2001,1395
+Americas,BLZ,Belize,2000,1486
+Europe,AZE,Azerbaijan,2000,1526
+Americas,DOM,Dominican Republic,2003,1529
+Africa,COD,Democratic Republic of Congo,2001,1531
+Americas,BLZ,Belize,2005,1549
+Africa,CIV,Cote d'Ivoire,2003,1585
+Americas,DOM,Dominican Republic,2011,1616
+Eastern Mediterranean,IRN,Iran,2011,1632
+Africa,COG,Congo,2003,1633
+Africa,BWA,Botswana,2002,1640
+South-East Asia,LKA,Sri Lanka,2005,1640
+Americas,DOM,Dominican Republic,2009,1643
+Americas,PAN,Panama,2006,1663
+Eastern Mediterranean,DJI,Djibouti,2013,1684
+Americas,SUR,Suriname,2010,1712
+Eastern Mediterranean,SAU,Saudi Arabia,2003,1724
+Africa,COD,Democratic Republic of Congo,2002,1735
+Americas,SUR,Suriname,2007,1741
+Africa,STP,Sao Tome and Principe,2014,1754
+Eastern Mediterranean,DJI,Djibouti,2006,1796
+Western Pacific,KOR,South Korea,2002,1799
+South-East Asia,BTN,Bhutan,2005,1825
+Americas,DOM,Dominican Republic,2008,1840
+Eastern Mediterranean,IRN,Iran,2010,1847
+Eastern Mediterranean,IRQ,Iraq,2000,1860
+Africa,NAM,Namibia,2011,1860
+South-East Asia,BTN,Bhutan,2006,1868
+Western Pacific,VUT,Vanuatu,2016,1868
+Americas,CRI,Costa Rica,2000,1879
+Americas,ECU,Ecuador,2010,1888
+Africa,BWA,Botswana,2017,1900
+South-East Asia,NPL,Nepal,2013,1974
+Africa,COD,Democratic Republic of Congo,2006,2050
+Western Pacific,KOR,South Korea,2006,2051
+Africa,STP,Sao Tome and Principe,2015,2058
+Europe,TUR,Turkey,2005,2084
+South-East Asia,NPL,Nepal,2012,2092
+Africa,COM,Comoros,2014,2203
+Africa,SLE,Sierra Leone,2004,2206
+Africa,SLE,Sierra Leone,2001,2206
+Western Pacific,KOR,South Korea,2007,2227
+Africa,STP,Sao Tome and Principe,2016,2238
+Africa,STP,Sao Tome and Principe,2017,2239
+Americas,PAN,Panama,2002,2244
+Africa,COM,Comoros,2017,2274
+Americas,NIC,Nicaragua,2015,2279
+Europe,TJK,Tajikistan,2005,2309
+Americas,DOM,Dominican Republic,2004,2355
+Americas,MEX,Mexico,2008,2357
+Americas,MEX,Mexico,2007,2361
+Americas,SUR,Suriname,2009,2380
+Western Pacific,VUT,Vanuatu,2013,2381
+Africa,STP,Sao Tome and Principe,2007,2421
+Africa,COD,Democratic Republic of Congo,2003,2438
+Americas,MEX,Mexico,2006,2514
+Africa,BWA,Botswana,2006,2548
+Western Pacific,KOR,South Korea,2001,2556
+Eastern Mediterranean,SAU,Saudi Arabia,2002,2612
+South-East Asia,BTN,Bhutan,2004,2670
+Africa,COD,Democratic Republic of Congo,2004,2684
+Eastern Mediterranean,DJI,Djibouti,2009,2686
+Americas,MEX,Mexico,2009,2703
+Americas,SUR,Suriname,2008,2709
+Americas,PRY,Paraguay,2001,2710
+Americas,DOM,Dominican Republic,2007,2711
+South-East Asia,PRK,Democratic People's Republic of Korea,2016,2719
+Africa,STP,Sao Tome and Principe,2010,2740
+Europe,KGZ,Kyrgyzstan,2002,2743
+Americas,PRY,Paraguay,2002,2778
+Americas,CRI,Costa Rica,2006,2903
+Western Pacific,MYS,Malaysia,2013,2921
+Americas,MEX,Mexico,2005,2967
+Africa,COD,Democratic Republic of Congo,2005,2971
+Eastern Mediterranean,SAU,Saudi Arabia,2001,3074
+Americas,NIC,Nicaragua,2006,3114
+Western Pacific,MYS,Malaysia,2014,3147
+Americas,SUR,Suriname,2006,3289
+South-East Asia,NPL,Nepal,2009,3335
+Eastern Mediterranean,SOM,Somalia,2011,3351
+Western Pacific,CHN,China,2011,3367
+Americas,HND,Honduras,2014,3378
+Americas,MEX,Mexico,2004,3406
+Americas,DOM,Dominican Republic,2010,3414
+South-East Asia,NPL,Nepal,2011,3414
+Western Pacific,VUT,Vanuatu,2012,3435
+Americas,DOM,Dominican Republic,2006,3525
+Africa,CIV,Cote d'Ivoire,2008,3527
+Americas,CRI,Costa Rica,2005,3541
+Americas,HND,Honduras,2015,3575
+Europe,TJK,Tajikistan,2004,3588
+Western Pacific,MYS,Malaysia,2012,3662
+Americas,PAN,Panama,2005,3667
+Africa,SLE,Sierra Leone,2002,3702
+Africa,BWA,Botswana,2001,3720
+South-East Asia,LKA,Sri Lanka,2004,3720
+Americas,GTM,Guatemala,2017,3743
+Western Pacific,VUT,Vanuatu,2008,3765
+South-East Asia,BTN,Bhutan,2003,3806
+Americas,MEX,Mexico,2003,3819
+Americas,DOM,Dominican Republic,2005,3837
+South-East Asia,BGD,Bangladesh,2013,3864
+South-East Asia,NPL,Nepal,2008,3888
+South-East Asia,NPL,Nepal,2010,3894
+Africa,SLE,Sierra Leone,2003,3945
+Western Pacific,PHL,Philippines,2017,3950
+Western Pacific,MYS,Malaysia,2011,3954
+Africa,NER,Niger,2006,3956
+Western Pacific,MYS,Malaysia,2007,4048
+Americas,HND,Honduras,2016,4094
+Africa,ERI,Eritrea,2004,4119
+Americas,ECU,Ecuador,2009,4120
+Western Pacific,VNM,Vietnam,2016,4161
+Western Pacific,KOR,South Korea,2000,4183
+Western Pacific,VUT,Vanuatu,2009,4189
+Africa,NAM,Namibia,2007,4242
+Africa,ZAF,South Africa,2016,4323
+South-East Asia,PRK,Democratic People's Republic of Korea,2007,4345
+Eastern Mediterranean,IRN,Iran,2009,4345
+Americas,PAN,Panama,2003,4500
+Africa,TZA,United Republic of Tanzania,2008,4508
+Western Pacific,VNM,Vietnam,2017,4548
+Americas,BOL,Bolivia,2017,4572
+South-East Asia,PRK,Democratic People's Republic of Korea,2017,4575
+Americas,MEX,Mexico,2002,4624
+South-East Asia,BGD,Bangladesh,2016,4787
+Africa,GIN,Guinea,2000,4800
+Africa,SLE,Sierra Leone,2005,4808
+Western Pacific,VUT,Vanuatu,2011,4820
+Americas,GTM,Guatemala,2016,4853
+Americas,ECU,Ecuador,2008,4891
+South-East Asia,BGD,Bangladesh,2017,4893
+South-East Asia,NPL,Nepal,2004,4895
+Western Pacific,PHL,Philippines,2014,4903
+Africa,NAM,Namibia,2013,4911
+Africa,SLE,Sierra Leone,2006,4932
+South-East Asia,NPL,Nepal,2006,4969
+Western Pacific,CHN,China,2010,4990
+Americas,MEX,Mexico,2001,4996
+Eastern Mediterranean,DJI,Djibouti,2003,5036
+South-East Asia,NPL,Nepal,2005,5050
+Americas,PAN,Panama,2004,5095
+Africa,STP,Sao Tome and Principe,2006,5146
+Western Pacific,MYS,Malaysia,2010,5194
+South-East Asia,TLS,Timor,2012,5211
+Africa,MDG,Madagascar,2002,5272
+Western Pacific,MYS,Malaysia,2006,5294
+Europe,TUR,Turkey,2004,5302
+Americas,GTM,Guatemala,2012,5346
+Americas,HND,Honduras,2013,5428
+Europe,TJK,Tajikistan,2003,5428
+Western Pacific,VUT,Vanuatu,2007,5471
+Americas,BOL,Bolivia,2016,5542
+Western Pacific,MYS,Malaysia,2005,5569
+South-East Asia,NPL,Nepal,2007,5621
+Africa,ZAF,South Africa,2012,5629
+Americas,GTM,Guatemala,2014,5685
+Africa,MDG,Madagascar,2006,5689
+South-East Asia,BTN,Bhutan,2000,5935
+Western Pacific,MYS,Malaysia,2009,5955
+South-East Asia,BTN,Bhutan,2001,5982
+Africa,COM,Comoros,2009,5982
+Africa,MRT,Mauritania,2011,5991
+Western Pacific,MYS,Malaysia,2008,6071
+Africa,ZAF,South Africa,2009,6072
+Africa,ERI,Eritrea,2002,6078
+Africa,COM,Comoros,2005,6086
+Western Pacific,MYS,Malaysia,2004,6154
+Europe,TJK,Tajikistan,2002,6160
+Africa,STP,Sao Tome and Principe,2009,6182
+Americas,GTM,Guatemala,2013,6214
+Africa,GIN,Guinea,2001,6238
+Africa,STP,Sao Tome and Principe,2008,6258
+Americas,NIC,Nicaragua,2016,6272
+Africa,GNQ,Equatorial Guinea,2007,6287
+Africa,ZAF,South Africa,2007,6327
+Western Pacific,MYS,Malaysia,2003,6338
+Africa,MRT,Mauritania,2010,6367
+South-East Asia,NPL,Nepal,2001,6396
+Americas,HND,Honduras,2012,6437
+South-East Asia,BTN,Bhutan,2002,6511
+Western Pacific,PHL,Philippines,2013,6514
+Africa,ERI,Eritrea,2006,6541
+South-East Asia,BGD,Bangladesh,2015,6608
+Eastern Mediterranean,SAU,Saudi Arabia,2000,6608
+Americas,NIC,Nicaragua,2005,6642
+Western Pacific,PHL,Philippines,2016,6680
+Americas,NIC,Nicaragua,2003,6717
+Africa,MDG,Madagascar,2005,6753
+Western Pacific,VUT,Vanuatu,2000,6768
+Americas,GTM,Guatemala,2011,6817
+Americas,GTM,Guatemala,2015,6836
+Americas,PRY,Paraguay,2000,6853
+Americas,BOL,Bolivia,2015,6874
+Americas,NIC,Nicaragua,2004,6897
+Africa,MDG,Madagascar,2003,6909
+Africa,MDG,Madagascar,2000,6946
+Americas,GTM,Guatemala,2009,7080
+Western Pacific,PHL,Philippines,2012,7133
+Americas,BOL,Bolivia,2011,7143
+Americas,GTM,Guatemala,2008,7198
+Americas,BOL,Bolivia,2013,7301
+Americas,GTM,Guatemala,2010,7384
+Africa,CIV,Cote d'Ivoire,2009,7388
+Americas,MEX,Mexico,2000,7390
+Americas,BOL,Bolivia,2014,7401
+Americas,BOL,Bolivia,2012,7415
+Americas,HND,Honduras,2011,7510
+Eastern Mediterranean,SOM,Somalia,2003,7571
+Africa,CIV,Cote d'Ivoire,2002,7628
+Africa,MDG,Madagascar,2004,7638
+Western Pacific,VUT,Vanuatu,2001,7647
+Africa,COG,Congo,2002,7677
+Americas,NIC,Nicaragua,2002,7695
+Africa,TCD,Chad,2012,7710
+Africa,ZAF,South Africa,2005,7755
+Africa,ZAF,South Africa,2008,7796
+South-East Asia,NPL,Nepal,2000,7981
+South-East Asia,THA,Thailand,2015,8022
+Western Pacific,CHN,China,2000,8025
+Western Pacific,VUT,Vanuatu,2006,8055
+Africa,ZAF,South Africa,2010,8060
+Western Pacific,VUT,Vanuatu,2010,8169
+Western Pacific,PHL,Philippines,2015,8266
+Eastern Mediterranean,IRN,Iran,2008,8349
+Americas,HND,Honduras,2008,8368
+Americas,SUR,Suriname,2004,8378
+Africa,STP,Sao Tome and Principe,2011,8442
+Americas,ECU,Ecuador,2007,8464
+Africa,MDG,Madagascar,2001,8538
+Africa,ZAF,South Africa,2013,8645
+Africa,ERI,Eritrea,2008,8764
+Eastern Mediterranean,SOM,Somalia,2013,8944
+Africa,MRT,Mauritania,2012,9037
+Africa,ERI,Eritrea,2005,9073
+Americas,SUR,Suriname,2005,9131
+Europe,TUR,Turkey,2003,9222
+Africa,STP,Sao Tome and Principe,2013,9243
+Western Pacific,CHN,China,2009,9287
+Americas,HND,Honduras,2009,9313
+Western Pacific,VNM,Vietnam,2015,9331
+Western Pacific,LAO,Laos,2017,9333
+Eastern Mediterranean,DJI,Djibouti,2014,9439
+Eastern Mediterranean,DJI,Djibouti,2015,9473
+Africa,GNQ,Equatorial Guinea,2008,9503
+South-East Asia,NPL,Nepal,2003,9506
+Western Pacific,PHL,Philippines,2011,9552
+Africa,ERI,Eritrea,2001,9716
+Americas,BOL,Bolivia,2009,9743
+Americas,HND,Honduras,2010,9744
+Americas,BOL,Bolivia,2008,9748
+Western Pacific,VUT,Vanuatu,2005,9834
+Americas,HTI,Haiti,2001,9837
+Americas,ECU,Ecuador,2006,9863
+Africa,ZAF,South Africa,2011,9866
+South-East Asia,BGD,Bangladesh,2012,9901
+Americas,GUY,Guyana,2015,9984
+South-East Asia,BGD,Bangladesh,2014,10216
+Europe,TUR,Turkey,2002,10224
+Africa,ERI,Eritrea,2003,10346
+Americas,NIC,Nicaragua,2001,10482
+Africa,BWA,Botswana,2000,10510
+South-East Asia,LKA,Sri Lanka,2003,10510
+Americas,HND,Honduras,2007,10512
+South-East Asia,PRK,Democratic People's Republic of Korea,2014,10535
+Americas,HTI,Haiti,2004,10802
+Europe,TUR,Turkey,2001,10812
+Americas,NIC,Nicaragua,2017,10949
+Americas,SUR,Suriname,2003,10982
+Eastern Mediterranean,SOM,Somalia,2014,11001
+Western Pacific,MYS,Malaysia,2002,11019
+Western Pacific,LAO,Laos,2016,11223
+Africa,GNB,Guinea-Bissau,2008,11299
+South-East Asia,PRK,Democratic People's Republic of Korea,2005,11315
+Western Pacific,VNM,Vietnam,2008,11355
+Americas,SUR,Suriname,2000,11361
+Europe,TJK,Tajikistan,2001,11387
+Europe,TUR,Turkey,2000,11432
+Eastern Mediterranean,SOM,Somalia,2004,11436
+South-East Asia,THA,Thailand,2017,11440
+South-East Asia,THA,Thailand,2016,11522
+Americas,GUY,Guyana,2007,11656
+Africa,ZAF,South Africa,2014,11705
+Africa,GNB,Guinea-Bissau,2009,11757
+Africa,ERI,Eritrea,2009,11759
+Americas,GUY,Guyana,2008,11815
+Africa,CIV,Cote d'Ivoire,2001,11936
+Americas,HND,Honduras,2006,11947
+Africa,COG,Congo,2001,11981
+Africa,ZAF,South Africa,2006,12098
+Africa,NAM,Namibia,2015,12168
+Americas,GUY,Guyana,2014,12354
+Americas,GUY,Guyana,2016,12367
+Eastern Mediterranean,SOM,Somalia,2005,12516
+Africa,STP,Sao Tome and Principe,2012,12550
+Western Pacific,MYS,Malaysia,2000,12705
+South-East Asia,NPL,Nepal,2002,12750
+Western Pacific,MYS,Malaysia,2001,12780
+Americas,SUR,Suriname,2002,12837
+Africa,COM,Comoros,2004,12874
+Africa,SEN,Senegal,2001,12920
+South-East Asia,PRK,Democratic People's Republic of Korea,2006,12983
+Africa,MRT,Mauritania,2013,13085
+Africa,GNQ,Equatorial Guinea,2013,13129
+Africa,ZAF,South Africa,2004,13399
+Africa,ZAF,South Africa,2003,13459
+South-East Asia,PRK,Democratic People's Republic of Korea,2010,13520
+Western Pacific,LAO,Laos,2005,13615
+Americas,GUY,Guyana,2009,13673
+Americas,BOL,Bolivia,2010,13769
+Eastern Mediterranean,DJI,Djibouti,2016,13804
+Eastern Mediterranean,IRN,Iran,2004,13821
+Africa,GAB,Gabon,2010,13936
+Americas,GUY,Guyana,2017,13936
+Americas,HND,Honduras,2003,14063
+Africa,GNQ,Equatorial Guinea,2009,14184
+Americas,BOL,Bolivia,2002,14276
+Africa,GNB,Guinea-Bissau,2007,14284
+Western Pacific,VUT,Vanuatu,2002,14339
+South-East Asia,PRK,Democratic People's Republic of Korea,2013,14407
+Africa,SEN,Senegal,2002,14425
+Americas,BOL,Bolivia,2007,14610
+South-East Asia,PRK,Democratic People's Republic of Korea,2009,14632
+Western Pacific,VUT,Vanuatu,2004,14653
+Africa,GNB,Guinea-Bissau,2005,14659
+Eastern Mediterranean,DJI,Djibouti,2017,14671
+Western Pacific,LAO,Laos,2009,14674
+Americas,BOL,Bolivia,2004,14910
+Africa,GNB,Guinea-Bissau,2006,15120
+Africa,GNQ,Equatorial Guinea,2015,15142
+Africa,GNQ,Equatorial Guinea,2012,15169
+Africa,CMR,Cameroon,2011,15212
+South-East Asia,TLS,Timor,2000,15212
+Western Pacific,VUT,Vanuatu,2003,15240
+Americas,GTM,Guatemala,2007,15382
+Eastern Mediterranean,IRN,Iran,2002,15558
+Africa,ERI,Eritrea,2007,15565
+Africa,ZAF,South Africa,2002,15649
+Africa,CIV,Cote d'Ivoire,2000,15705
+Eastern Mediterranean,IRN,Iran,2007,15712
+Africa,GNQ,Equatorial Guinea,2017,15725
+Eastern Mediterranean,SOM,Somalia,2002,15732
+Africa,COG,Congo,2000,15751
+Western Pacific,VNM,Vietnam,2014,15752
+Americas,BOL,Bolivia,2001,15765
+Africa,MRT,Mauritania,2014,15835
+Eastern Mediterranean,IRN,Iran,2006,15909
+Africa,NAM,Namibia,2014,15914
+Americas,HND,Honduras,2005,15943
+Americas,SUR,Suriname,2001,16003
+Western Pacific,VNM,Vietnam,2009,16130
+Western Pacific,LAO,Laos,2004,16183
+Western Pacific,VNM,Vietnam,2007,16389
+Eastern Mediterranean,SOM,Somalia,2006,16430
+South-East Asia,PRK,Democratic People's Republic of Korea,2003,16538
+Africa,GIN,Guinea,2002,16561
+South-East Asia,PRK,Democratic People's Republic of Korea,2002,16578
+South-East Asia,PRK,Democratic People's Republic of Korea,2008,16611
+Western Pacific,VNM,Vietnam,2011,16612
+Western Pacific,CHN,China,2008,16650
+Eastern Mediterranean,SOM,Somalia,2007,16675
+South-East Asia,PRK,Democratic People's Republic of Korea,2011,16760
+Americas,HTI,Haiti,2000,16897
+Africa,ZWE,Zimbabwe,2004,16990
+Americas,ECU,Ecuador,2005,17050
+Western Pacific,VNM,Vietnam,2013,17128
+Americas,HND,Honduras,2004,17134
+Americas,HND,Honduras,2002,17223
+Western Pacific,LAO,Laos,2007,17458
+Western Pacific,VNM,Vietnam,2010,17515
+Western Pacific,LAO,Laos,2011,17532
+Americas,HTI,Haiti,2015,17583
+Americas,HTI,Haiti,2014,17696
+Africa,TZA,United Republic of Tanzania,2000,17734
+Africa,STP,Sao Tome and Principe,2005,18139
+Africa,BFA,Burkina Faso,2004,18256
+Western Pacific,LAO,Laos,2006,18382
+Western Pacific,SLB,Solomon Islands,2014,18404
+Western Pacific,PHL,Philippines,2010,18560
+Western Pacific,LAO,Laos,2003,18894
+Africa,ZWE,Zimbabwe,2005,18954
+Eastern Mediterranean,IRN,Iran,2005,18966
+Europe,TJK,Tajikistan,2000,19064
+Americas,HTI,Haiti,2017,19135
+Eastern Mediterranean,IRN,Iran,2001,19303
+Western Pacific,PHL,Philippines,2009,19316
+Western Pacific,LAO,Laos,2008,19347
+Africa,ERI,Eritrea,2015,19372
+Western Pacific,VNM,Vietnam,2005,19496
+South-East Asia,MMR,Myanmar,2017,19619
+Western Pacific,VNM,Vietnam,2012,19638
+Africa,ZWE,Zimbabwe,2006,19702
+Eastern Mediterranean,IRN,Iran,2000,19716
+Americas,BOL,Bolivia,2006,19725
+South-East Asia,TLS,Timor,2011,19739
+Africa,GAB,Gabon,2012,19753
+Americas,VEN,Venezuela,2001,20006
+Africa,KEN,Kenya,2002,20049
+Africa,MRT,Mauritania,2017,20105
+Africa,NAM,Namibia,2003,20295
+Americas,BOL,Bolivia,2003,20343
+Africa,GNQ,Equatorial Guinea,2014,20417
+Africa,COM,Comoros,2006,20559
+Western Pacific,LAO,Laos,2010,20800
+Africa,GIN,Guinea,2010,20936
+Eastern Mediterranean,SOM,Somalia,2015,20953
+Americas,HTI,Haiti,2013,20957
+Americas,GUY,Guyana,2006,21064
+Western Pacific,CHN,China,2001,21237
+Western Pacific,KHM,Cambodia,2013,21309
+Africa,ERI,Eritrea,2013,21317
+Africa,BFA,Burkina Faso,2005,21335
+Western Pacific,LAO,Laos,2002,21420
+Americas,HTI,Haiti,2016,21430
+Americas,BOL,Bolivia,2005,21442
+Americas,HTI,Haiti,2005,21778
+Africa,ERI,Eritrea,2012,21815
+South-East Asia,PRK,Democratic People's Republic of Korea,2012,21850
+Americas,GUY,Guyana,2002,21895
+Western Pacific,CHN,China,2005,21936
+Africa,ZAF,South Africa,2017,22061
+Africa,SEN,Senegal,2004,22234
+Africa,GNQ,Equatorial Guinea,2011,22466
+Africa,MRT,Mauritania,2015,22631
+Western Pacific,VNM,Vietnam,2006,22637
+Americas,GUY,Guyana,2010,22935
+Africa,MRT,Mauritania,2016,23042
+Africa,NAM,Namibia,2005,23339
+Western Pacific,KHM,Cambodia,2016,23492
+Eastern Mediterranean,IRN,Iran,2003,23562
+Western Pacific,PHL,Philippines,2008,23655
+Africa,GAB,Gabon,2015,23867
+Americas,NIC,Nicaragua,2000,23878
+Africa,GAB,Gabon,2016,23915
+Africa,NAM,Namibia,2002,23984
+Western Pacific,SLB,Solomon Islands,2015,23998
+Americas,GUY,Guyana,2000,24018
+Americas,HND,Honduras,2001,24149
+Africa,ERI,Eritrea,2016,24251
+Western Pacific,SLB,Solomon Islands,2012,24383
+Eastern Mediterranean,SOM,Somalia,2010,24553
+Africa,COM,Comoros,2011,24856
+South-East Asia,THA,Thailand,2011,24897
+Western Pacific,VNM,Vietnam,2004,24909
+Americas,PER,Peru,2011,25039
+Western Pacific,KHM,Cambodia,2014,25152
+Africa,NAM,Namibia,2016,25198
+Eastern Mediterranean,SOM,Somalia,2009,25202
+Americas,HTI,Haiti,2012,25423
+Western Pacific,CHN,China,2002,25520
+Western Pacific,SLB,Solomon Islands,2013,25609
+Africa,ZAF,South Africa,2001,26506
+Africa,CMR,Cameroon,2013,26651
+South-East Asia,TLS,Timor,2002,26651
+Western Pacific,SLB,Solomon Islands,2011,26657
+South-East Asia,THA,Thailand,2004,26690
+Africa,SEN,Senegal,2003,26865
+Western Pacific,LAO,Laos,2001,27076
+South-East Asia,PRK,Democratic People's Republic of Korea,2004,27090
+Americas,GUY,Guyana,2001,27122
+Western Pacific,CHN,China,2004,27197
+Americas,GUY,Guyana,2003,27627
+Africa,NAM,Namibia,2006,27690
+Africa,KEN,Kenya,2004,28328
+Western Pacific,CHN,China,2003,28491
+South-East Asia,THA,Thailand,2008,28569
+Americas,ECU,Ecuador,2004,28730
+Americas,GUY,Guyana,2004,28866
+Americas,GTM,Guatemala,2004,28955
+Africa,GAB,Gabon,2013,28982
+Western Pacific,CHN,China,2007,29304
+South-East Asia,THA,Thailand,2009,29462
+Americas,VEN,Venezuela,2002,29491
+Americas,GUY,Guyana,2011,29506
+Americas,VEN,Venezuela,2000,29736
+South-East Asia,THA,Thailand,2005,29782
+Americas,HTI,Haiti,2007,29825
+Africa,CIV,Cote d'Ivoire,2011,29976
+South-East Asia,THA,Thailand,2006,30294
+Africa,ERI,Eritrea,2014,30768
+Americas,GTM,Guatemala,2006,31093
+Americas,GTM,Guatemala,2003,31127
+Americas,PER,Peru,2012,31436
+Americas,BOL,Bolivia,2000,31469
+Americas,GUY,Guyana,2013,31479
+Africa,ERI,Eritrea,2017,31486
+Americas,PER,Peru,2010,31546
+Americas,GUY,Guyana,2012,31656
+Africa,TCD,Chad,2005,31668
+Americas,VEN,Venezuela,2003,31719
+Africa,GAB,Gabon,2014,31900
+Africa,STP,Sao Tome and Principe,2000,31975
+Americas,VEN,Venezuela,2008,32037
+South-East Asia,THA,Thailand,2010,32480
+South-East Asia,THA,Thailand,2012,32569
+Americas,HTI,Haiti,2006,32739
+Africa,ZWE,Zimbabwe,2008,32788
+South-East Asia,BGD,Bangladesh,2006,32857
+Western Pacific,SLB,Solomon Islands,2009,33002
+Africa,SEN,Senegal,2005,33160
+South-East Asia,THA,Thailand,2007,33178
+South-East Asia,THA,Thailand,2013,33302
+Africa,GIN,Guinea,2008,33405
+Africa,CAF,Central African Republic,2000,33411
+South-East Asia,TLS,Timor,2003,33411
+Africa,GAB,Gabon,2006,33458
+Western Pacific,KHM,Cambodia,2015,33930
+Americas,HTI,Haiti,2011,34350
+Western Pacific,PHL,Philippines,2001,34787
+Africa,ERI,Eritrea,2011,34848
+Americas,HND,Honduras,2000,35125
+Eastern Mediterranean,SOM,Somalia,2017,35138
+Africa,GAB,Gabon,2017,35244
+Western Pacific,CHN,China,2006,35383
+Western Pacific,PHL,Philippines,2006,35405
+Americas,GTM,Guatemala,2002,35540
+Eastern Mediterranean,SOM,Somalia,2016,35628
+Eastern Mediterranean,SOM,Somalia,2012,35712
+Americas,GTM,Guatemala,2001,35824
+Americas,VEN,Venezuela,2009,35828
+Africa,GIN,Guinea,2009,35841
+Africa,ERI,Eritrea,2010,35982
+Africa,NAM,Namibia,2004,36043
+Western Pacific,LAO,Laos,2015,36056
+Western Pacific,PHL,Philippines,2007,36235
+Africa,BFA,Burkina Faso,2008,36514
+Africa,COM,Comoros,2010,36538
+Western Pacific,PHL,Philippines,2000,36596
+Americas,HTI,Haiti,2008,36774
+Eastern Mediterranean,SOM,Somalia,2008,36905
+Western Pacific,KHM,Cambodia,2017,36932
+Western Pacific,PHL,Philippines,2002,37005
+Americas,VEN,Venezuela,2006,37062
+South-East Asia,THA,Thailand,2003,37355
+Africa,COG,Congo,2011,37744
+Africa,CAF,Central African Republic,2003,37896
+South-East Asia,TLS,Timor,2006,37896
+South-East Asia,THA,Thailand,2014,37921
+Western Pacific,LAO,Laos,2013,38131
+Africa,TCD,Chad,2001,38287
+Africa,TZA,United Republic of Tanzania,2001,38537
+Western Pacific,VNM,Vietnam,2003,38790
+Americas,GUY,Guyana,2005,38984
+Africa,CAF,Central African Republic,2001,39164
+Africa,GMB,Gambia,2008,39164
+South-East Asia,TLS,Timor,2004,39164
+Eastern Mediterranean,AFG,Afghanistan,2013,39263
+Africa,KEN,Kenya,2003,39383
+Americas,GTM,Guatemala,2005,39571
+Western Pacific,SLB,Solomon Islands,2010,39704
+Africa,TCD,Chad,2000,40078
+Western Pacific,LAO,Laos,2000,40106
+Western Pacific,KHM,Cambodia,2012,40476
+Western Pacific,SLB,Solomon Islands,2008,40535
+Africa,GAB,Gabon,2008,40701
+Americas,COL,Colombia,2014,40768
+South-East Asia,LKA,Sri Lanka,2002,41411
+Africa,NAM,Namibia,2001,41636
+Americas,VEN,Venezuela,2007,41749
+Africa,STP,Sao Tome and Principe,2001,42086
+Western Pacific,KHM,Cambodia,2008,42124
+Africa,TZA,United Republic of Tanzania,2002,42468
+Western Pacific,KHM,Cambodia,2007,42518
+Americas,PER,Peru,2009,42645
+Africa,STP,Sao Tome and Principe,2003,42656
+Africa,CAF,Central African Republic,2002,43093
+South-East Asia,TLS,Timor,2005,43093
+Africa,COG,Congo,2013,43232
+Africa,TCD,Chad,2002,43933
+Eastern Mediterranean,YEM,Yemen,2005,44150
+Eastern Mediterranean,YEM,Yemen,2008,44206
+Africa,BFA,Burkina Faso,2007,44246
+Africa,BFA,Burkina Faso,2006,44265
+Africa,GIN,Guinea,2007,44518
+Americas,PER,Peru,2008,44522
+South-East Asia,THA,Thailand,2002,44555
+Africa,LBR,Liberia,2005,44875
+Africa,SEN,Senegal,2000,44959
+Americas,VEN,Venezuela,2005,45049
+Africa,TCD,Chad,2006,45155
+Americas,VEN,Venezuela,2010,45155
+Africa,GAB,Gabon,2007,45186
+Africa,TCD,Chad,2003,45195
+Americas,VEN,Venezuela,2011,45824
+Africa,CAF,Central African Republic,2005,45973
+Western Pacific,LAO,Laos,2012,46202
+Western Pacific,PHL,Philippines,2005,46342
+Africa,STP,Sao Tome and Principe,2004,46486
+Americas,VEN,Venezuela,2004,46655
+Africa,CAF,Central African Republic,2012,46759
+Africa,CAF,Central African Republic,2004,46869
+Western Pacific,KHM,Cambodia,2002,46902
+South-East Asia,TLS,Timor,2009,47527
+Americas,COL,Colombia,2015,47616
+Africa,TCD,Chad,2008,47757
+Western Pacific,VNM,Vietnam,2002,47807
+Africa,SEN,Senegal,2006,48070
+Western Pacific,LAO,Laos,2014,48071
+South-East Asia,BGD,Bangladesh,2005,48121
+South-East Asia,TLS,Timor,2010,48137
+Africa,TCD,Chad,2007,48288
+Western Pacific,PHL,Philippines,2003,48441
+Africa,MDG,Madagascar,2007,48497
+Americas,PER,Peru,2013,48719
+Eastern Mediterranean,YEM,Yemen,2004,48756
+Western Pacific,KHM,Cambodia,2010,49356
+Western Pacific,KHM,Cambodia,2005,49436
+Americas,HTI,Haiti,2009,49535
+Africa,COM,Comoros,2012,49840
+Africa,GMB,Gambia,2009,50378
+Africa,GNB,Guinea-Bissau,2012,50381
+Africa,GNB,Guinea-Bissau,2010,50391
+Africa,GIN,Guinea,2005,50452
+Africa,STP,Sao Tome and Principe,2002,50586
+Americas,PER,Peru,2007,50797
+Africa,GAB,Gabon,2000,50810
+Eastern Mediterranean,YEM,Yemen,2003,50811
+Eastern Mediterranean,AFG,Afghanistan,2001,50850
+Western Pacific,PHL,Philippines,2004,50850
+South-East Asia,TLS,Timor,2008,51260
+Africa,COG,Congo,2015,51529
+Americas,COL,Colombia,2013,51696
+South-East Asia,BGD,Bangladesh,2011,51773
+Africa,SSD,South Sudan,2008,52011
+Americas,ECU,Ecuador,2003,52065
+Western Pacific,SLB,Solomon Islands,2017,52463
+Americas,VEN,Venezuela,2012,52803
+Americas,COL,Colombia,2017,52805
+South-East Asia,TLS,Timor,2007,52813
+Africa,COM,Comoros,2013,53156
+Africa,GAB,Gabon,2001,53167
+Americas,GTM,Guatemala,2000,53311
+Western Pacific,KHM,Cambodia,2001,53601
+Africa,GNQ,Equatorial Guinea,2010,53813
+South-East Asia,BGD,Bangladesh,2001,54216
+Africa,GIN,Guinea,2006,54227
+Africa,NAM,Namibia,2017,54268
+Western Pacific,SLB,Solomon Islands,2016,54431
+Africa,GNB,Guinea-Bissau,2013,54584
+South-East Asia,BGD,Bangladesh,2003,54654
+Eastern Mediterranean,AFG,Afghanistan,2012,54840
+Eastern Mediterranean,YEM,Yemen,2006,55000
+Americas,PER,Peru,2017,55367
+Eastern Mediterranean,YEM,Yemen,2009,55446
+South-East Asia,BGD,Bangladesh,2000,55599
+South-East Asia,BGD,Bangladesh,2010,55873
+Africa,NER,Niger,2005,56043
+Africa,NER,Niger,2003,56460
+Americas,PER,Peru,2016,56623
+Western Pacific,KHM,Cambodia,2011,57423
+Africa,GAB,Gabon,2003,58212
+South-East Asia,BGD,Bangladesh,2004,58894
+Western Pacific,KHM,Cambodia,2004,59745
+South-East Asia,BGD,Bangladesh,2007,59866
+Americas,COL,Colombia,2011,60105
+Americas,COL,Colombia,2012,60179
+Eastern Mediterranean,AFG,Afghanistan,2014,61362
+Americas,PER,Peru,2015,61865
+South-East Asia,BGD,Bangladesh,2002,62269
+Western Pacific,KHM,Cambodia,2000,62442
+Africa,CIV,Cote d'Ivoire,2010,62726
+Africa,GAB,Gabon,2002,62976
+South-East Asia,THA,Thailand,2001,63528
+South-East Asia,BGD,Bangladesh,2009,63873
+Western Pacific,KHM,Cambodia,2009,64595
+Eastern Mediterranean,AFG,Afghanistan,2009,64880
+Americas,PER,Peru,2006,64925
+Americas,PER,Peru,2014,65252
+Western Pacific,SLB,Solomon Islands,2007,65404
+Africa,COG,Congo,2014,66323
+South-East Asia,LKA,Sri Lanka,2001,66522
+Eastern Mediterranean,YEM,Yemen,2007,67677
+Western Pacific,SLB,Solomon Islands,2000,68107
+Americas,PER,Peru,2000,68321
+Western Pacific,VNM,Vietnam,2001,68699
+Eastern Mediterranean,AFG,Afghanistan,2010,69397
+Africa,GMB,Gambia,2017,69931
+Africa,GAB,Gabon,2004,70075
+Africa,GAB,Gabon,2005,70644
+Western Pacific,KHM,Cambodia,2003,71265
+Africa,SSD,South Sudan,2014,71377
+Africa,GNB,Guinea-Bissau,2011,71982
+Western Pacific,PNG,Papua New Guinea,2003,72620
+Western Pacific,VNM,Vietnam,2000,74316
+Western Pacific,SLB,Solomon Islands,2002,74936
+Western Pacific,SLB,Solomon Islands,2006,75337
+Eastern Mediterranean,YEM,Yemen,2002,75508
+Western Pacific,PNG,Papua New Guinea,2002,75748
+Africa,NER,Niger,2004,76030
+Eastern Mediterranean,YEM,Yemen,2015,76259
+Western Pacific,SLB,Solomon Islands,2005,76390
+Western Pacific,SLB,Solomon Islands,2001,76493
+Eastern Mediterranean,AFG,Afghanistan,2011,77549
+Western Pacific,PNG,Papua New Guinea,2009,77758
+Americas,PER,Peru,2001,78544
+South-East Asia,THA,Thailand,2000,78561
+Americas,VEN,Venezuela,2013,78643
+Western Pacific,KHM,Cambodia,2006,78696
+Americas,COL,Colombia,2009,79347
+Western Pacific,PNG,Papua New Guinea,2000,79839
+Americas,COL,Colombia,2008,80559
+Eastern Mediterranean,AFG,Afghanistan,2008,81574
+Eastern Mediterranean,PAK,Pakistan,2000,82526
+Americas,COL,Colombia,2016,82609
+Western Pacific,PNG,Papua New Guinea,2011,84060
+Americas,HTI,Haiti,2010,84153
+Western Pacific,PNG,Papua New Guinea,2008,84452
+South-East Asia,BGD,Bangladesh,2008,84690
+Eastern Mediterranean,AFG,Afghanistan,2006,86129
+Eastern Mediterranean,YEM,Yemen,2014,86707
+Americas,ECU,Ecuador,2002,86757
+Eastern Mediterranean,AFG,Afghanistan,2015,86895
+Western Pacific,PNG,Papua New Guinea,2007,86955
+Americas,PER,Peru,2005,87699
+Americas,PER,Peru,2003,88408
+Africa,GNB,Guinea-Bissau,2017,89784
+Western Pacific,SLB,Solomon Islands,2004,90297
+Eastern Mediterranean,YEM,Yemen,2011,90410
+South-East Asia,PRK,Democratic People's Republic of Korea,2000,90582
+Americas,VEN,Venezuela,2014,90708
+Western Pacific,PNG,Papua New Guinea,2004,91055
+Eastern Mediterranean,AFG,Afghanistan,2007,92202
+Western Pacific,SLB,Solomon Islands,2003,92227
+Africa,COG,Congo,2009,92855
+Western Pacific,PNG,Papua New Guinea,2005,92957
+Africa,MDG,Madagascar,2008,93234
+Africa,GNB,Guinea-Bissau,2014,93431
+Americas,PER,Peru,2004,93581
+Africa,MOZ,Mozambique,2009,93874
+Western Pacific,PNG,Papua New Guinea,2006,93938
+Western Pacific,PNG,Papua New Guinea,2010,93956
+Eastern Mediterranean,AFG,Afghanistan,2000,94475
+Western Pacific,PNG,Papua New Guinea,2001,94484
+Africa,GIN,Guinea,2011,95574
+Eastern Mediterranean,YEM,Yemen,2016,98701
+Americas,PER,Peru,2002,99237
+Eastern Mediterranean,YEM,Yemen,2013,102778
+Africa,GIN,Guinea,2004,103069
+Africa,COG,Congo,2007,103213
+Eastern Mediterranean,PAK,Pakistan,2008,104454
+Americas,ECU,Ecuador,2000,104528
+Eastern Mediterranean,YEM,Yemen,2010,106697
+Eastern Mediterranean,PAK,Pakistan,2002,107666
+Africa,GIN,Guinea,2003,107925
+Americas,ECU,Ecuador,2001,108903
+Eastern Mediterranean,YEM,Yemen,2012,109908
+South-East Asia,MMR,Myanmar,2016,110146
+Africa,SSD,South Sudan,2011,112024
+Eastern Mediterranean,YEM,Yemen,2017,114004
+Africa,ZWE,Zimbabwe,2009,114028
+Africa,CAF,Central African Republic,2013,116300
+Africa,GMB,Gambia,2010,116353
+Eastern Mediterranean,AFG,Afghanistan,2005,116444
+Africa,ZWE,Zimbabwe,2007,116518
+Africa,COG,Congo,2008,117291
+Americas,COL,Colombia,2010,117589
+Africa,SEN,Senegal,2007,118332
+South-East Asia,MMR,Myanmar,2000,120083
+Americas,COL,Colombia,2006,120096
+Africa,MOZ,Mozambique,2008,120259
+Africa,COG,Congo,2012,120319
+Americas,COL,Colombia,2005,121629
+Americas,BRA,Brazil,2016,124178
+Eastern Mediterranean,PAK,Pakistan,2006,124910
+Eastern Mediterranean,PAK,Pakistan,2003,125152
+Eastern Mediterranean,PAK,Pakistan,2001,125292
+Eastern Mediterranean,PAK,Pakistan,2004,126719
+Eastern Mediterranean,PAK,Pakistan,2005,127826
+Africa,COG,Congo,2017,127939
+Americas,COL,Colombia,2007,128462
+Eastern Mediterranean,PAK,Pakistan,2007,128570
+Americas,VEN,Venezuela,2015,136402
+Americas,BRA,Brazil,2015,138229
+Eastern Mediterranean,AFG,Afghanistan,2016,139087
+Americas,BRA,Brazil,2014,139272
+Africa,MOZ,Mozambique,2007,141663
+Americas,COL,Colombia,2004,142241
+Africa,GNB,Guinea-Bissau,2015,142309
+Africa,NGA,Nigeria,2008,143079
+South-East Asia,PRK,Democratic People's Republic of Korea,2001,143674
+Americas,COL,Colombia,2000,144432
+Africa,GNQ,Equatorial Guinea,2016,147714
+Western Pacific,PNG,Papua New Guinea,2012,150195
+Africa,GNB,Guinea-Bissau,2016,150903
+South-East Asia,MMR,Myanmar,2004,152070
+Africa,GMB,Gambia,2016,153774
+Africa,SLE,Sierra Leone,2008,154459
+Eastern Mediterranean,AFG,Afghanistan,2017,161778
+South-East Asia,MMR,Myanmar,2005,165737
+Africa,SEN,Senegal,2009,165933
+Africa,GMB,Gambia,2014,166229
+Eastern Mediterranean,PAK,Pakistan,2009,167579
+Americas,BRA,Brazil,2013,168862
+South-East Asia,MMR,Myanmar,2001,170502
+Africa,COG,Congo,2016,171847
+South-East Asia,MMR,Myanmar,2002,173096
+South-East Asia,MMR,Myanmar,2003,177530
+Americas,COL,Colombia,2003,180956
+Africa,TCD,Chad,2011,181126
+Africa,BFA,Burkina Faso,2009,182527
+South-East Asia,MMR,Myanmar,2015,182768
+Americas,BRA,Brazil,2017,189503
+Africa,TCD,Chad,2010,200448
+Eastern Mediterranean,PAK,Pakistan,2015,202013
+Africa,MDG,Madagascar,2010,202450
+South-East Asia,MMR,Myanmar,2006,203071
+Eastern Mediterranean,SDN,Sudan,2001,203491
+Americas,COL,Colombia,2002,204916
+South-East Asia,MMR,Myanmar,2014,205658
+Africa,RWA,Rwanda,2011,208858
+South-East Asia,LKA,Sri Lanka,2000,210039
+Africa,GIN,Guinea,2013,211257
+Africa,MDG,Madagascar,2009,215110
+South-East Asia,IDN,Indonesia,2015,217025
+South-East Asia,IDN,Indonesia,2016,218450
+Africa,TGO,Togo,2007,221110
+South-East Asia,IDN,Indonesia,2003,223074
+Africa,MDG,Madagascar,2011,224498
+Africa,SSD,South Sudan,2012,225371
+Africa,MLI,Mali,2010,227482
+Americas,COL,Colombia,2001,231233
+Africa,UGA,Uganda,2011,231873
+Africa,GMB,Gambia,2015,240382
+Eastern Mediterranean,PAK,Pakistan,2010,240591
+Americas,VEN,Venezuela,2016,240613
+Africa,GMB,Gambia,2013,240792
+Africa,SEN,Senegal,2008,241926
+Eastern Mediterranean,AFG,Afghanistan,2004,242022
+Americas,BRA,Brazil,2012,242758
+South-East Asia,IDN,Indonesia,2000,245612
+Africa,NER,Niger,2007,249027
+Africa,ZWE,Zimbabwe,2010,249379
+South-East Asia,IDN,Indonesia,2014,252027
+South-East Asia,IDN,Indonesia,2017,261617
+Africa,GMB,Gambia,2011,261967
+Africa,SSD,South Sudan,2013,262520
+Americas,BRA,Brazil,2011,267146
+South-East Asia,IDN,Indonesia,2001,267592
+Africa,SEN,Senegal,2014,268912
+South-East Asia,IDN,Indonesia,2009,272491
+South-East Asia,IDN,Indonesia,2002,273793
+Africa,SEN,Senegal,2011,274119
+Eastern Mediterranean,PAK,Pakistan,2014,275149
+Africa,ZWE,Zimbabwe,2012,276963
+Africa,ZWE,Zimbabwe,2016,279988
+Western Pacific,PNG,Papua New Guinea,2013,279994
+Africa,SEN,Senegal,2012,280241
+Eastern Mediterranean,SDN,Sudan,2002,280550
+Western Pacific,PNG,Papua New Guinea,2014,281182
+Eastern Mediterranean,PAK,Pakistan,2013,281755
+Eastern Mediterranean,PAK,Pakistan,2012,290781
+Africa,CAF,Central African Republic,2014,295088
+Western Pacific,PNG,Papua New Guinea,2015,297787
+Africa,GMB,Gambia,2012,300363
+Africa,MWI,Malawi,2011,304499
+South-East Asia,IDN,Indonesia,2004,304936
+Africa,MLI,Mali,2011,307035
+Africa,BDI,Burundi,2000,308095
+Americas,BRA,Brazil,2009,309316
+Africa,NER,Niger,2009,309675
+South-East Asia,IDN,Indonesia,2007,311789
+Africa,BDI,Burundi,2001,312015
+Africa,ZWE,Zimbabwe,2017,315624
+Americas,BRA,Brazil,2008,315746
+Africa,RWA,Rwanda,2008,316242
+Africa,GIN,Guinea,2012,317200
+Eastern Mediterranean,PAK,Pakistan,2016,318449
+Africa,ZWE,Zimbabwe,2011,319935
+Africa,BDI,Burundi,2002,327138
+Africa,BDI,Burundi,2005,327464
+Africa,SEN,Senegal,2010,330331
+South-East Asia,MMR,Myanmar,2013,333871
+Americas,BRA,Brazil,2010,334483
+Eastern Mediterranean,PAK,Pakistan,2011,334589
+South-East Asia,IDN,Indonesia,2013,343527
+Africa,TGO,Togo,2008,344862
+South-East Asia,IDN,Indonesia,2006,347597
+Americas,BRA,Brazil,2002,348259
+South-East Asia,IDN,Indonesia,2008,349231
+Africa,SEN,Senegal,2016,349540
+Eastern Mediterranean,PAK,Pakistan,2017,350467
+Africa,BDI,Burundi,2003,353459
+Africa,MDG,Madagascar,2012,359420
+Eastern Mediterranean,AFG,Afghanistan,2003,360940
+Africa,BDI,Burundi,2004,363395
+Africa,SEN,Senegal,2013,366687
+Eastern Mediterranean,SDN,Sudan,2000,368557
+South-East Asia,MMR,Myanmar,2007,373958
+Africa,MDG,Madagascar,2014,377963
+Africa,RWA,Rwanda,2007,382686
+Africa,CAF,Central African Republic,2017,383309
+Africa,MDG,Madagascar,2013,385598
+Americas,BRA,Brazil,2001,388303
+Africa,TGO,Togo,2009,391338
+Africa,ZWE,Zimbabwe,2015,391651
+Africa,ETH,Ethiopia,2001,392377
+Africa,SEN,Senegal,2017,395706
+Americas,BRA,Brazil,2003,408886
+Americas,VEN,Venezuela,2017,411586
+Eastern Mediterranean,AFG,Afghanistan,2002,415356
+South-East Asia,IDN,Indonesia,2012,417819
+South-East Asia,MMR,Myanmar,2010,420808
+South-East Asia,IDN,Indonesia,2011,422447
+Africa,ZWE,Zimbabwe,2013,422633
+Africa,BEN,Benin,2011,422968
+Africa,RWA,Rwanda,2001,423493
+Africa,ETH,Ethiopia,2002,427795
+Africa,BFA,Burkina Faso,2011,428113
+South-East Asia,MMR,Myanmar,2009,436068
+South-East Asia,IDN,Indonesia,2005,437323
+South-East Asia,MMR,Myanmar,2008,447073
+Africa,ETH,Ethiopia,2006,447780
+Africa,ETH,Ethiopia,2007,451816
+Africa,ETH,Ethiopia,2008,458561
+Americas,BRA,Brazil,2007,458652
+Africa,ETH,Ethiopia,2003,463797
+Americas,BRA,Brazil,2004,465004
+South-East Asia,MMR,Myanmar,2011,465294
+South-East Asia,IDN,Indonesia,2010,465764
+Africa,GHA,Ghana,2006,472255
+Africa,MDG,Madagascar,2016,475333
+Africa,GHA,Ghana,2004,475441
+Africa,GHA,Ghana,2007,476484
+Western Pacific,PNG,Papua New Guinea,2017,478340
+Western Pacific,PNG,Papua New Guinea,2016,478497
+Africa,NGA,Nigeria,2009,479845
+South-East Asia,MMR,Myanmar,2012,480586
+Africa,RWA,Rwanda,2012,483470
+Africa,SEN,Senegal,2015,492253
+Africa,LBR,Liberia,2007,492272
+Africa,NER,Niger,2008,496858
+Africa,RWA,Rwanda,2002,506028
+Eastern Mediterranean,SDN,Sudan,2011,506806
+Africa,TGO,Togo,2011,519450
+Eastern Mediterranean,SDN,Sudan,2012,526931
+Africa,ZWE,Zimbabwe,2014,535931
+Eastern Mediterranean,SDN,Sudan,2004,537899
+Africa,ETH,Ethiopia,2005,538942
+Americas,BRA,Brazil,2006,549469
+Africa,NGA,Nigeria,2010,551187
+Africa,RWA,Rwanda,2003,553150
+Africa,UGA,Uganda,2002,557159
+Eastern Mediterranean,SDN,Sudan,2008,569296
+Africa,RWA,Rwanda,2006,573686
+Eastern Mediterranean,SDN,Sudan,2016,575015
+Africa,ETH,Ethiopia,2004,578904
+Eastern Mediterranean,SDN,Sudan,2015,586827
+Africa,RWA,Rwanda,2004,589315
+Eastern Mediterranean,SDN,Sudan,2013,592383
+Africa,CAF,Central African Republic,2015,598833
+Americas,BRA,Brazil,2005,606067
+Africa,LBR,Liberia,2008,606952
+Americas,BRA,Brazil,2000,613241
+Africa,TGO,Togo,2010,617101
+Africa,NER,Niger,2010,620058
+Eastern Mediterranean,SDN,Sudan,2005,628417
+Africa,RWA,Rwanda,2010,638669
+Africa,SLE,Sierra Leone,2011,638859
+Africa,SLE,Sierra Leone,2009,646808
+Africa,GHA,Ghana,2005,655093
+Africa,GIN,Guinea,2014,660207
+Africa,TZA,United Republic of Tanzania,2014,680442
+Africa,RWA,Rwanda,2005,683769
+Eastern Mediterranean,SDN,Sudan,2007,686908
+Africa,TGO,Togo,2012,697374
+Africa,RWA,Rwanda,2009,698745
+Africa,BEN,Benin,2012,705839
+Eastern Mediterranean,SDN,Sudan,2009,711462
+Eastern Mediterranean,SDN,Sudan,2010,720557
+Eastern Mediterranean,SDN,Sudan,2017,720879
+Eastern Mediterranean,SDN,Sudan,2006,721233
+Africa,COD,Democratic Republic of Congo,2007,740858
+Africa,MDG,Madagascar,2015,744103
+Africa,TCD,Chad,2013,754565
+Africa,LBR,Liberia,2006,761415
+Africa,NER,Niger,2011,780876
+Africa,TCD,Chad,2015,787046
+Africa,BDI,Burundi,2006,791731
+Africa,MDG,Madagascar,2017,800661
+Africa,COM,Comoros,2000,801784
+Africa,UGA,Uganda,2003,801784
+Africa,BFA,Burkina Faso,2010,804539
+Africa,GIN,Guinea,2015,810979
+Africa,LBR,Liberia,2009,839581
+Africa,KEN,Kenya,2008,839903
+South-East Asia,IND,India,2017,844558
+Africa,LBR,Liberia,2014,864204
+Africa,COM,Comoros,2003,867398
+Africa,UGA,Uganda,2006,867398
+Africa,BDI,Burundi,2008,876741
+Africa,COM,Comoros,2001,879032
+Africa,UGA,Uganda,2004,879032
+South-East Asia,IND,India,2013,881730
+Africa,TGO,Togo,2013,882430
+Africa,MLI,Mali,2012,886482
+Africa,AGO,Angola,2005,889572
+Africa,BEN,Benin,2009,889597
+Africa,KEN,Kenya,2010,898531
+Africa,SSD,South Sudan,2010,900283
+Africa,TCD,Chad,2014,914032
+Africa,LBR,Liberia,2010,922173
+Africa,LBR,Liberia,2015,931086
+Eastern Mediterranean,SDN,Sudan,2003,933267
+Africa,SLE,Sierra Leone,2010,934028
+Africa,RWA,Rwanda,2013,962618
+Africa,UGA,Uganda,2008,979298
+Africa,GIN,Guinea,2016,992146
+Africa,KEN,Kenya,2011,1002805
+Africa,CAF,Central African Republic,2016,1032764
+Africa,ETH,Ethiopia,2009,1036316
+Africa,GHA,Ghana,2011,1041260
+Africa,BEN,Benin,2014,1044235
+Africa,UGA,Uganda,2007,1045378
+South-East Asia,IND,India,2012,1067824
+Eastern Mediterranean,SDN,Sudan,2014,1068506
+Africa,GHA,Ghana,2010,1071637
+Africa,BEN,Benin,2013,1078834
+Africa,AGO,Angola,2006,1082398
+South-East Asia,IND,India,2016,1087285
+Africa,GHA,Ghana,2008,1094483
+Africa,BDI,Burundi,2007,1101644
+South-East Asia,IND,India,2014,1102205
+Africa,COM,Comoros,2002,1104310
+Africa,UGA,Uganda,2005,1104310
+Africa,GHA,Ghana,2009,1104370
+Africa,TGO,Togo,2015,1113927
+Africa,TGO,Togo,2014,1130251
+Africa,CIV,Cote d'Ivoire,2012,1140627
+Africa,ETH,Ethiopia,2010,1158197
+Africa,CMR,Cameroon,2015,1162784
+South-East Asia,IND,India,2015,1169261
+Africa,TGO,Togo,2016,1183265
+Africa,BDI,Burundi,2009,1185622
+Africa,LBR,Liberia,2016,1191137
+Africa,CMR,Cameroon,2017,1191257
+Africa,TGO,Togo,2017,1209034
+Africa,LBR,Liberia,2013,1244220
+Africa,BEN,Benin,2015,1268347
+Africa,TZA,United Republic of Tanzania,2010,1278998
+Africa,MWI,Malawi,2013,1280892
+Africa,TCD,Chad,2016,1294768
+Africa,UGA,Uganda,2009,1301337
+South-East Asia,IND,India,2011,1310656
+Africa,BEN,Benin,2016,1324576
+Africa,GIN,Guinea,2017,1335323
+Africa,MLI,Mali,2013,1367218
+Africa,SLE,Sierra Leone,2014,1374476
+Africa,AGO,Angola,2008,1377992
+Eastern Mediterranean,YEM,Yemen,2000,1394495
+Africa,LBR,Liberia,2012,1407455
+Africa,KEN,Kenya,2012,1453471
+Africa,ETH,Ethiopia,2011,1480306
+Africa,SLE,Sierra Leone,2015,1483376
+Africa,SSD,South Sudan,2017,1488005
+Africa,AGO,Angola,2012,1496834
+Africa,KEN,Kenya,2015,1499027
+Africa,UGA,Uganda,2013,1502362
+South-East Asia,IND,India,2007,1508927
+Africa,MOZ,Mozambique,2010,1522577
+Africa,ETH,Ethiopia,2017,1530739
+South-East Asia,IND,India,2008,1532497
+Africa,AGO,Angola,2007,1533485
+Africa,SLE,Sierra Leone,2012,1537322
+Africa,TZA,United Republic of Tanzania,2013,1551923
+South-East Asia,IND,India,2009,1563574
+Africa,MWI,Malawi,2012,1564984
+Africa,BDI,Burundi,2011,1571874
+Africa,BEN,Benin,2017,1573163
+Africa,AGO,Angola,2009,1573422
+Africa,UGA,Uganda,2010,1581160
+South-East Asia,IND,India,2010,1599986
+Africa,RWA,Rwanda,2014,1610812
+Africa,COD,Democratic Republic of Congo,2008,1618218
+Africa,AGO,Angola,2011,1632282
+Africa,GHA,Ghana,2013,1639451
+Africa,SLE,Sierra Leone,2017,1651236
+Africa,CMR,Cameroon,2016,1675264
+Africa,AGO,Angola,2010,1682870
+Africa,ETH,Ethiopia,2012,1692578
+Africa,SLE,Sierra Leone,2013,1701958
+Africa,ETH,Ethiopia,2016,1718504
+Africa,MOZ,Mozambique,2011,1756874
+Africa,BDI,Burundi,2010,1763447
+Africa,SLE,Sierra Leone,2016,1775306
+South-East Asia,IND,India,2006,1785109
+Africa,MOZ,Mozambique,2012,1813984
+South-East Asia,IND,India,2005,1816569
+South-East Asia,IND,India,2002,1841227
+Africa,TZA,United Republic of Tanzania,2007,1845917
+Africa,ETH,Ethiopia,2015,1867059
+South-East Asia,IND,India,2003,1869403
+Africa,RWA,Rwanda,2017,1876123
+Africa,COD,Democratic Republic of Congo,2009,1878705
+South-East Asia,IND,India,2004,1915363
+Africa,LBR,Liberia,2011,1915762
+Africa,MLI,Mali,2017,1918376
+Africa,TZA,United Republic of Tanzania,2006,1928296
+Africa,NER,Niger,2014,1953309
+Africa,TCD,Chad,2017,1962372
+Africa,TZA,United Republic of Tanzania,2003,1976614
+Africa,TZA,United Republic of Tanzania,2012,1986955
+Africa,AGO,Angola,2013,1999868
+South-East Asia,IND,India,2000,2031790
+Africa,MLI,Mali,2014,2039853
+South-East Asia,IND,India,2001,2085484
+Africa,ETH,Ethiopia,2014,2118815
+Africa,TZA,United Republic of Tanzania,2011,2150761
+Africa,BDI,Burundi,2012,2151076
+Africa,MLI,Mali,2016,2156282
+Africa,NER,Niger,2012,2239858
+Africa,NER,Niger,2015,2272000
+Africa,MLI,Mali,2015,2295611
+Africa,AGO,Angola,2014,2298979
+Africa,KEN,Kenya,2013,2335286
+Africa,NER,Niger,2013,2353422
+Africa,COD,Democratic Republic of Congo,2010,2417780
+Africa,TZA,United Republic of Tanzania,2004,2502382
+Africa,RWA,Rwanda,2015,2505794
+Africa,CIV,Cote d'Ivoire,2013,2506953
+Africa,NER,Niger,2017,2638580
+Africa,ETH,Ethiopia,2013,2645454
+Africa,UGA,Uganda,2012,2662258
+Africa,TZA,United Republic of Tanzania,2005,2764049
+Africa,AGO,Angola,2015,2769305
+Africa,KEN,Kenya,2016,2783846
+Africa,KEN,Kenya,2014,2808931
+Africa,MWI,Malawi,2014,2905310
+Africa,MOZ,Mozambique,2013,2998874
+Africa,KEN,Kenya,2017,3215116
+Africa,CIV,Cote d'Ivoire,2017,3274683
+Africa,CIV,Cote d'Ivoire,2015,3375904
+Africa,RWA,Rwanda,2016,3380568
+Africa,GHA,Ghana,2014,3415912
+Africa,CIV,Cote d'Ivoire,2016,3471024
+Africa,UGA,Uganda,2014,3631939
+Africa,MWI,Malawi,2015,3661238
+Africa,CIV,Cote d'Ivoire,2014,3712831
+Africa,GHA,Ghana,2012,3755166
+Africa,BFA,Burkina Faso,2013,3769051
+Africa,AGO,Angola,2016,3794253
+Africa,BFA,Burkina Faso,2012,3858046
+Africa,AGO,Angola,2017,3874892
+Africa,ZMB,Zambia,2014,4077547
+Africa,BDI,Burundi,2013,4141387
+Africa,NER,Niger,2016,4148167
+Africa,ZMB,Zambia,2015,4184661
+Africa,TZA,United Republic of Tanzania,2015,4241364
+Africa,GHA,Ghana,2015,4319919
+Africa,GHA,Ghana,2017,4348694
+Africa,GHA,Ghana,2016,4535167
+Africa,COD,Democratic Republic of Congo,2011,4561981
+Africa,BDI,Burundi,2014,4585273
+Africa,COD,Democratic Republic of Congo,2012,4791598
+Africa,MWI,Malawi,2016,4827373
+Africa,ZMB,Zambia,2016,4851319
+Africa,MWI,Malawi,2017,4901344
+Africa,BDI,Burundi,2015,5159706
+Africa,TZA,United Republic of Tanzania,2016,5193520
+Africa,TZA,Tanzania,2017,5354486
+Africa,BFA,Burkina Faso,2014,5428655
+Africa,ZMB,Zambia,2017,5505639
+Africa,COD,Democratic Republic of Congo,2013,6715223
+Africa,NGA,Nigeria,2015,6850782
+Africa,BFA,Burkina Faso,2015,7015446
+Africa,MOZ,Mozambique,2014,7117648
+Africa,UGA,Uganda,2015,7137662
+Africa,BDI,Burundi,2017,7670177
+Africa,MOZ,Mozambique,2015,7718782
+Africa,NGA,Nigeria,2014,7826954
+Africa,BDI,Burundi,2016,8274062
+Africa,MOZ,Mozambique,2016,8520376
+Africa,MOZ,Mozambique,2017,8921081
+Africa,NGA,Nigeria,2016,9234387
+Africa,UGA,Uganda,2016,9385132
+Africa,BFA,Burkina Faso,2016,9779154
+Africa,COD,Democratic Republic of Congo,2014,9968983
+Africa,BFA,Burkina Faso,2017,10225459
+Africa,NGA,Nigeria,2017,11571958
+Africa,COD,Democratic Republic of Congo,2015,11627473
+Africa,UGA,Uganda,2017,11667831
+Africa,COD,Democratic Republic of Congo,2017,15176927
+Africa,COD,Democratic Republic of Congo,2016,15330841
+Europe,ALB,Albania,2017,0
+Europe,AND,Andorra,2017,0
+North America,AIA,Anguilla,2017,0
+North America,ATG,Antigua and Barbuda,2017,0
+North America,ABW,Aruba,2017,0
+Oceania,AUS,Australia,2017,0
+Europe,AUT,Austria,2017,0
+North America,BHS,Bahamas,2017,0
+Asia,BHR,Bahrain,2017,0
+North America,BRB,Barbados,2017,0
+Europe,BLR,Belarus,2017,0
+Europe,BEL,Belgium,2017,0
+North America,BMU,Bermuda,2017,0
+North America,BES,Bonaire Sint Eustatius and Saba,2017,0
+Europe,BIH,Bosnia and Herzegovina,,0
+North America,VGB,British Virgin Islands,2017,0
+Asia,BRN,Brunei,2017,0
+Europe,BGR,Bulgaria,2017,0
+North America,CAN,Canada,2017,0
+North America,CYM,Cayman Islands,2017,0
+South America,CHL,Chile,2017,0
+Oceania,COK,Cook Islands,2017,0
+Europe,HRV,Croatia,2017,0
+North America,CUB,Cuba,2017,0
+North America,CUW,Curacao,2017,0
+Europe,CYP,Cyprus,2017,0
+Europe,CZE,Czechia,2017,0
+Europe,DNK,Denmark,2017,0
+North America,DMA,Dominica,2017,0
+Eastern Mediterranean,EGY,Egypt,2017,0
+Americas,SLV,El Salvador,2017,0
+Europe,EST,Estonia,2017,0
+Europe,FRO,Faeroe Islands,2017,0
+South America,FLK,Falkland Islands,2017,0
+Oceania,FJI,Fiji,2017,0
+Europe,FIN,Finland,2017,0
+Europe,FRA,France,2017,0
+Oceania,PYF,French Polynesia,2017,0
+Europe,DEU,Germany,2017,0
+Europe,GIB,Gibraltar,2017,0
+Europe,GRC,Greece,2017,0
+North America,GRL,Greenland,2017,0
+North America,GRD,Grenada,2017,0
+Asia,HKG,Hong Kong,2017,0
+Europe,HUN,Hungary,2017,0
+Europe,ISL,Iceland,2017,0
+Europe,IRL,Ireland,2017,0
+Europe,IMN,Isle of Man,2017,0
+Asia,ISR,Israel,2017,0
+Europe,ITA,Italy,2017,0
+North America,JAM,Jamaica,2017,0
+Asia,JPN,Japan,2017,0
+Asia,JOR,Jordan,2017,0
+Oceania,KIR,Kiribati,2017,0
+Europe,KOS,Kosovo,2017,0
+Asia,KWT,Kuwait,2017,0
+Europe,KGZ,Kyrgyzstan,2017,0
+Europe,LVA,Latvia,2017,0
+Asia,LBN,Lebanon,2017,0
+Africa,LSO,Lesotho,2017,0
+Africa,LBR,Liberia,2017,0
+Africa,LBY,Libya,2017,0
+Europe,LIE,Liechtenstein,2017,0
+Europe,LTU,Lithuania,2017,0
+Europe,LUX,Luxembourg,2017,0
+Asia,MAC,Macao,2017,0
+Asia,MDV,Maldives,2017,0
+Europe,MLT,Malta,2017,0
+Oceania,MHL,Marshall Islands,2017,0
+Oceania,FSM,Micronesia (country),2017,0
+Europe,MDA,Moldova,2017,0
+Europe,MCO,Monaco,2017,0
+Asia,MNG,Mongolia,2017,0
+Europe,MNE,Montenegro,2017,0
+North America,MSR,Montserrat,2017,0
+Europe,NLD,Netherlands,2017,0
+Oceania,NCL,New Caledonia,2017,0
+Oceania,NZL,New Zealand,2017,0
+Europe,MKD,North Macedonia,2017,0
+Europe,NOR,Norway,2017,0
+Oceania,PLW,Palau,2017,0
+Asia,PSE,Palestine,2017,0
+Europe,POL,Poland,2017,0
+Europe,PRT,Portugal,2017,0
+Asia,QAT,Qatar,2017,0
+Europe,ROU,Romania,2017,0
+Europe,RUS,Russia,2017,0
+Africa,SHN,Saint Helena,2017,0
+North America,KNA,Saint Kitts and Nevis,2017,0
+North America,LCA,Saint Lucia,2017,0
+North America,SPM,Saint Pierre and Miquelon,2017,0
+North America,VCT,Saint Vincent and the Grenadines,2017,0
+Oceania,WSM,Samoa,2017,0
+Europe,SMR,San Marino,2017,0
+Europe,SRB,Serbia,2017,0
+Africa,SYC,Seychelles,2017,0
+Asia,SGP,Singapore,2017,0
+Europe,SVK,Slovakia,2017,0
+Europe,SVN,Slovenia,2017,0
+Europe,ESP,Spain,2017,0
+Europe,SWE,Sweden,2017,0
+Europe,CHE,Switzerland,2017,0
+Asia,TWN,Taiwan,2017,0
+Oceania,TON,Tonga,2017,0
+North America,TTO,Trinidad and Tobago,2017,0
+Africa,TUN,Tunisia,2017,0
+North America,TCA,Turks and Caicos Islands,2017,0
+Europe,UKR,Ukraine,2017,0
+Eastern Mediterranean,ARE,United Arab Emirates,2017,0
+Europe,GBR,United Kingdom,2017,0
+North America,USA,United States,2017,0
+South America,URY,Uruguay,2017,0
+Europe,VAT,Vatican,2017,0
+Oceania,WLF,Wallis and Futuna,2017,0
